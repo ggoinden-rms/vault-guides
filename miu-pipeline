@@ -1,6 +1,0 @@
-def initialise = {
-  library 'miupipeline@parameterized-pipeline'
-    miupipeline.initialise()
-}  
-
-initialise()
